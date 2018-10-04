@@ -19,6 +19,8 @@
   
   ### VIPER
   
+  - [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/) by [@heyjeffg](https://twitter.com/heyjeffg) and [@conradstoll](https://twitter.com/conradstoll)
+  
   ### Clean Architecture
 
 ## Animation
