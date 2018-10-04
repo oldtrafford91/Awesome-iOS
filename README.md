@@ -15,6 +15,7 @@
   ### Coordinator
   
   - [The Coordinator](http://khanlou.com/2015/01/the-coordinator/) by [@khanlou](https://twitter.com/khanlou)
+  - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/) by [@khanlou](https://twitter.com/khanlou)
   
   ### VIPER
   
