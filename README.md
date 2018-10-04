@@ -10,7 +10,11 @@
   
   ### MVVM
   
+  - [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/) by [@ashfurrow](https://twitter.com/ashfurrow)
+  
   ### Coordinator
+  
+  - [The Coordinator](http://khanlou.com/2015/01/the-coordinator/) by [@khanlou](https://twitter.com/khanlou)
   
   ### VIPER
   
