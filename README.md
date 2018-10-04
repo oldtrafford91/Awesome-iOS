@@ -16,8 +16,11 @@
   
   - [The Coordinator](http://khanlou.com/2015/01/the-coordinator/) by [@khanlou](https://twitter.com/khanlou)
   - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/) by [@khanlou](https://twitter.com/khanlou)
+  - [Coordinator Tutorial for iOS: Getting Started](https://www.raywenderlich.com/158-coordinator-tutorial-for-ios-getting-started)
   
   ### VIPER
+  
+  - [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/) by [@heyjeffg](https://twitter.com/heyjeffg) and [@conradstoll](https://twitter.com/conradstoll)
   
   ### Clean Architecture
 
