@@ -17,6 +17,7 @@
   - [The Coordinator](http://khanlou.com/2015/01/the-coordinator/) by [@khanlou](https://twitter.com/khanlou)
   - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/) by [@khanlou](https://twitter.com/khanlou)
   - [Coordinator Tutorial for iOS: Getting Started](https://www.raywenderlich.com/158-coordinator-tutorial-for-ios-getting-started)
+  - [Coordinators Essential tutorial](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-i-376c836e9ba7) by [@panovdev](https://twitter.com/panovdev)
   
   ### VIPER
   
