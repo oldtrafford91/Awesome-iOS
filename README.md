@@ -38,6 +38,7 @@
   - [How To Create an Uber Splash Screen](https://www.raywenderlich.com/1031-how-to-create-an-uber-splash-screen) by [@LOLgrep](https://twitter.com/LOLgrep)
   - [How To Make A UIViewController Transition Animation Like in the Ping App](https://www.raywenderlich.com/261-how-to-make-a-uiviewcontroller-transition-animation-like-in-the-ping-app) by [@lukeparham](https://twitter.com/lukeparham)
   - [How to Create a Complex Loading Animation in Swift](https://www.raywenderlich.com/1746-how-to-create-a-complex-loading-animation-in-swift)
+  - [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/449-how-to-implement-a-circular-image-loader-animation-with-cashapelayer) by [@TheMikeKatz](https://twitter.com/TheMikeKatz)
 
 
 
