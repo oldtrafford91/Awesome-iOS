@@ -31,6 +31,12 @@
 
 ## Animation
 
+  ### Raywenderlich
+  
+  - [Recreating the Apple Music Now Playing Transition](https://www.raywenderlich.com/221-recreating-the-apple-music-now-playing-transition) by [@troutdev](https://twitter.com/troutdev)
+
+
+
 ## Tip trick
 
 ## Useful Tools
