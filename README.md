@@ -36,6 +36,7 @@
   - [Recreating the Apple Music Now Playing Transition](https://www.raywenderlich.com/221-recreating-the-apple-music-now-playing-transition) by [@troutdev](https://twitter.com/troutdev)
   - [How to Create an iOS Book Open Animation](https://www.raywenderlich.com/1719-how-to-create-an-ios-book-open-animation-part-1) by [@vincentngo2](https://twitter.com/vincentngo2)
   - [How To Create an Uber Splash Screen](https://www.raywenderlich.com/1031-how-to-create-an-uber-splash-screen) by [@LOLgrep](https://twitter.com/LOLgrep)
+  - [How To Make A UIViewController Transition Animation Like in the Ping App](https://www.raywenderlich.com/261-how-to-make-a-uiviewcontroller-transition-animation-like-in-the-ping-app) by [@lukeparham](https://twitter.com/lukeparham)
 
 
 
