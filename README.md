@@ -44,9 +44,16 @@
 
 
 
+
+
+## Useful Tools
+
 ## UITableView/UICollectionView
 
+
 ## Networking
+
+- [Minimal Networking layer from scratch in Swift 4](https://medium.com/ios-os-x-development/minimal-networking-layer-from-scratch-in-swift-4-a151af786dc5)
 
 ## Core Data
 
