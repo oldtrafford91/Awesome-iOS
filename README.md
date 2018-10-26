@@ -54,6 +54,7 @@
 ## Networking
 
 - [Minimal Networking layer from scratch in Swift 4](https://medium.com/ios-os-x-development/minimal-networking-layer-from-scratch-in-swift-4-a151af786dc5)
+- [How to Isolate Client-Server Interaction Logic in iOS Applications](https://www.toptal.com/ios/isolate-client-server-interaction-logic-ios)
 
 ## Core Data
 
